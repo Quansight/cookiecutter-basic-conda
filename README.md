@@ -11,7 +11,7 @@ pip install -U cookiecutter
 Generate a Python package project:
 
 ```
-cookiecutter https://github.com/kcpevey/cookiecutter-basic-conda.git
+cookiecutter https://github.com/Quansight/cookiecutter-basic-conda.git
 ```
 
 ## Features
